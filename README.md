@@ -13,6 +13,4 @@ I'm Alexander Bryksin, Senior Software Engineer focusing on Golang, Java, Kotlin
 - 🔭 I’m currently working in [Luxoft](https://www.luxoft.com/)
 - 📫 How to reach me: alexander.bryksin@yandex.ru
 
-### Github stats
 
-<img  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AleksK1NG&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="AleksK1NG">
